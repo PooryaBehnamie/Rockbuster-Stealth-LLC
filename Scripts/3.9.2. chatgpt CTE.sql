@@ -1,4 +1,3 @@
-EXPLAIN
 WITH TopCountries AS (
     SELECT  CO.country
     FROM    customer C
