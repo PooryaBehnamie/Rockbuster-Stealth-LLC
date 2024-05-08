@@ -22,7 +22,7 @@ For this analysis, Rockbuster's relational database management system and Postgr
 [Download PostgreSQL Database](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
 ## Context
-To improve decision-making for the impending online service shift, this project utilized SQL for in-depth data analysis in response to requests from various departments. The industry-transferable skills obtained here highlight data analytics problem-solving capabilities.
+In response to demands from multiple departments, SQL was utilized in this project to conduct in-depth data analysis in order to enhance decision-making for the upcoming online service transition. The industry-transferable skills acquired here emphasize the ability to solve problems with data analytics.
 
 ## Visualizations
 Explore the visualizations created for this analysis on Tableau Public: [Link to Visualizations](https://public.tableau.com/shared/WGCXMSYRZ?:display_count=n&:origin=viz_share_link)
