@@ -15,8 +15,10 @@ The Rockbuster Stealth Management Board has outlined several critical business q
    
 ### Data & Tools
 For this analysis, Rockbuster's relational database management system and Postgre SQL were utilized. The dataset encompasses comprehensive information concerning Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history, and addresses.
+
 [Download the Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 (To access the data set It is necessary to load the data set into the PostgreSQL database.)
+
 [Download PostgreSQL Database](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
 ### Visualizations
