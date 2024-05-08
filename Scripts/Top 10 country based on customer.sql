@@ -1,6 +1,6 @@
-SELECT  CO.country,
-		COUNT(DISTINCT C.customer_id) AS Customer_count,
-		SUM(P.amount) AS Total_revenue
+SELECT   CO.country,
+	 COUNT(DISTINCT C.customer_id) AS Customer_count,
+	 SUM(P.amount) AS Total_revenue
 FROM country CO 
 JOIN city CI ON CO.country_id = CI.country_id
 JOIN address AD ON CI.city_id = AD.city_id
